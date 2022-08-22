@@ -1,0 +1,2 @@
+# JavaScript是什麼?
+

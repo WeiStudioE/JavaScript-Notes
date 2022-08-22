@@ -1,5 +1,9 @@
 ---
 description: for seventh~ninth grade
+cover: >-
+  https://images.unsplash.com/photo-1587620962725-abab7fe55159?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8amF2YXNjcmlwdHxlbnwwfHx8fDE2NjExODIwNDE&ixlib=rb-1.2.1&q=80
+coverY: 0
+layout: editorial
 ---
 
 # Getting Started
