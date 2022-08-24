@@ -24,25 +24,25 @@ description: build runtime
 
 ### 安裝
 
-<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
 
 下載好之後會出現安裝檔，點擊安裝檔。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 勾選**我同意**，並一直點擊**下一步**就可以了。
 
 ### 開啟
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 安裝好後開啟VSCode，點選左側最下方的延伸模組。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 搜尋chinese，選擇中文(繁體)。
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 點擊安裝，安裝好後重開VSCode。
 
