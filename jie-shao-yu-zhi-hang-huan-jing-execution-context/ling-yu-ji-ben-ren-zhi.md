@@ -1,8 +1,8 @@
 ---
-description: 在進入網頁開發前，必須先知道的基本知識。
+description: 在進入網頁開發前，可以先了解的基本知識。
 ---
 
-# 領域基本認知，JavaScript可以做什麼?
+# 領域基本認知
 
 ### 前言
 
@@ -30,7 +30,7 @@ Node.js是什麼？Node.js是能讓JavaScript脫離瀏覽器並在伺服器端�
 
 它的出現也讓JavaScript的應用延伸得更廣更遠，從前端到後端。
 
-後端開發：Go、PHP、Node.js、Ruby、Java、Python...
+後端主流開發：Go、PHP、Node.js、Ruby、Java、Python...
 
 ### 框架(Framework)
 
@@ -38,6 +38,3 @@ Node.js是什麼？Node.js是能讓JavaScript脫離瀏覽器並在伺服器端�
 
 目前JavaScript的主流框架：Vue.js、React.js、Angular.js。
 
-### 結論
-
-說了以上這些，JavaScript可以做些什麼應該顯而易見吧！
