@@ -32,19 +32,19 @@ description: 網頁開發使用的編輯器與套件
 
 勾選**我同意**，並一直點擊**下一步**就可以了。
 
-### 開啟
-
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+### 安裝套件
 
 安裝好後開啟VSCode，點選左側最下方的延伸模組。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 搜尋chinese，選擇中文(繁體)。
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 點擊安裝，安裝好後重開VSCode。
+
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 另外除了Chinese建議安裝：**Live Server**。
 

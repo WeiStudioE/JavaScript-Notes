@@ -38,6 +38,12 @@ Node.js是什麼？Node.js是能讓JavaScript脫離瀏覽器並在伺服器端�
 
 目前JavaScript的主流框架：Vue.js、React.js、Angular.js。
 
+### 函式庫(Library)
+
+函式庫是軟體開發中的子程式集合，提供許多不同功能程式碼或語法，方便開發者使用。
+
+網頁開發常見函式庫：jQuery、axios、Bootstrap...
+
 ### 結論
 
 至今JavaScript除了能製作網頁前端、API、後端，甚至可以做APP(React Native)。
