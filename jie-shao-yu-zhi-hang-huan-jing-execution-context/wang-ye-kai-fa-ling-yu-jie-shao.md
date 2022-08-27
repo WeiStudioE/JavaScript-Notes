@@ -1,8 +1,8 @@
 ---
-description: 在進入網頁開發前，可以先了解的基本知識。
+description: 在進入網頁開發前，可以先了解的基本知識
 ---
 
-# 領域基本認知
+# 網頁開發領域介紹
 
 ### 前言
 
@@ -37,4 +37,8 @@ Node.js是什麼？Node.js是能讓JavaScript脫離瀏覽器並在伺服器端�
 框架又是什麼？框架的出現為軟體開發提供了一個基礎的架構、骨架，開發者可以利用框架更快的建構開發環境和加速程式開發上的效率。
 
 目前JavaScript的主流框架：Vue.js、React.js、Angular.js。
+
+### 結論
+
+至今JavaScript除了能製作網頁前端、API、後端，甚至可以做APP(React Native)。
 
