@@ -82,7 +82,3 @@ Script就是我們用來寫JavaScript的地方。
 接下來我們都會在這個「script.js」中撰寫JavaScript哦！
 
 上述的示範可以跟著練習看看！
-
-{% hint style="success" %}
-恭喜你完成到這一步啦！不過之後的地獄才剛要開始，做好心理準備前往下一課吧！
-{% endhint %}
