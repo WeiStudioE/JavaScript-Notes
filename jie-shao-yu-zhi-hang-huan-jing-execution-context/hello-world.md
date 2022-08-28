@@ -31,7 +31,7 @@ description: 所有程式語言的開端
 
 接下來輸入 `alert('hello world!!');` 並按下「Enter」試試看會發生什麼事吧！
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 在試試看輸入 `console.log('hello world');`！
 
@@ -47,25 +47,41 @@ description: 所有程式語言的開端
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-上面已經先寫好「CSS」、「HTML」、「JavaScript」撰寫的區塊。
+上圖中已經先標示好「CSS」、「HTML」、「JavaScript」撰寫的區塊。
 
-也代表著我們接下來要將JavaScript寫在script標籤中。
+Style表示撰寫CSS，也就是網頁的樣式，程式碼通常撰寫在標籤內，`<style>這裡</style>`。
+
+Body通常做為撰寫HTML與JavaScript的地方，所以可以看見body內有script。
+
+Script就是我們用來寫JavaScript的地方。
+
+也代表著我們接下來要將JavaScript寫在script標籤中，像是：
+
+```
+<script>
+    var x = 10;
+</script>
+```
+
+但這樣的方式是不是會感覺很混亂呢？所有東西都塞在同一個檔案內。
 
 ### 引入HTML中
 
 但上面這個寫法是都將CSS、JavaScript寫在html檔案中。
 
-其實我們也可以透過引入的方式！
+其實我們也可以透過**引入**的方式！
 
-下面第9行是引入我們建立的「style.css」檔案的程式。
+可以先建立我們需要的檔案，「style.css」和「script.js」，要注意檔案後的副檔名。
+
+下面圖中第9行是引入我們建立的「style.css」檔案的程式。
 
 第14行是引入「script.js」檔案的程式，也就是我們原本撰寫JavaScript的地方。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 接下來我們都會在這個「script.js」中撰寫JavaScript哦！
 
-上述的示範可以練習看看！
+上述的示範可以跟著練習看看！
 
 {% hint style="success" %}
 恭喜你完成到這一步啦！不過之後的地獄才剛要開始，做好心理準備前往下一課吧！

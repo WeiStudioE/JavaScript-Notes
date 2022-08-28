@@ -44,11 +44,11 @@ description: 本章節會帶你從零開始建立基本的環境與操作
 
 ### 開啟本地端伺服器
 
-建好後，先「ctrl+s」儲存後，點一下「index.html」檔案後，按右鍵後出現列表。
+建好後，先「ctrl+s」儲存後，對「index.html」檔案右鍵後出現列表。
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-上圖中框選起來的部分點選後，會幫你在本地端建立本地伺服器，出現網址「[http://localhost:8080/index.html](http://localhost:8080/index.html)」的網站。
+點擊「Open with Live Server」，會幫你在本地端建立本地伺服器，出現網址「[http://localhost:8080/index.html](http://localhost:8080/index.html)」的網站。
 
 當然也能透過剛剛下方的「Go Live」來建立本地伺服器。
 
