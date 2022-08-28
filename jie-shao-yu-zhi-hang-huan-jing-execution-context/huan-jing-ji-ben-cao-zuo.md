@@ -10,7 +10,7 @@ description: 本章節會帶你從零開始建立基本的環境與操作
 
 可以選擇建立在桌面，好方便管理。
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 **注意：不建議使用中文命名**
 
@@ -26,13 +26,13 @@ description: 本章節會帶你從零開始建立基本的環境與操作
 
 點選此按鈕New File建立檔案，檔案會建立在TEST資料夾內。
 
-![](<../.gitbook/assets/image (4).png>)
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ### 建立HTML環境
 
 這邊我們建立一個「index.html」的檔案，index這名稱通常用於網站主頁。
 
-![](<../.gitbook/assets/image (9).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 建好後我們可以在畫面輸入驚嘆號「!」，看見畫面有這樣的提示出現時按下「tab」。
 
@@ -46,7 +46,7 @@ description: 本章節會帶你從零開始建立基本的環境與操作
 
 建好後，先「ctrl+s」儲存後，對「index.html」檔案右鍵後出現列表。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 點擊「Open with Live Server」，會幫你在本地端建立本地伺服器，出現網址「[http://localhost:8080/index.html](http://localhost:8080/index.html)」的網站。
 

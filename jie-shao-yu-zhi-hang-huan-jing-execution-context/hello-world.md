@@ -8,7 +8,7 @@ description: 所有程式語言的開端
 
 在前一章節已經帶你將最基礎網頁開發環境建立好，接下來會簡單介紹「開發人員工具」在之後的過程中要怎麼使用。
 
-在剛剛開啟本地端伺服器後，可以按下「F12」或是對畫面按下右鍵「檢查」來開啟「開發人員工具」。
+在剛剛開啟本地端伺服器後，在網頁的地方可以按下「F12」或是對畫面按下右鍵「檢查」來開啟「開發人員工具」。
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +45,7 @@ description: 所有程式語言的開端
 
 來看一下如果在這個HTML檔案內寫程式應該怎麼寫。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 上圖中已經先標示好「CSS」、「HTML」、「JavaScript」撰寫的區塊。
 

@@ -40,7 +40,7 @@ description: 網頁開發使用的編輯器與套件
 
 搜尋chinese，選擇中文(繁體)。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 點擊安裝，安裝好後重開VSCode。
 
