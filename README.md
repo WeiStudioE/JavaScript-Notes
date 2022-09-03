@@ -9,11 +9,11 @@ coverY: 0
 
 ## 目錄
 
-### [介紹與執行環境(Execution Context)](./#jie-shao-yu-zhi-hang-huan-jing-runtime) <a href="#jie-shao-yu-zhi-hang-huan-jing-execution-context" id="jie-shao-yu-zhi-hang-huan-jing-execution-context"></a>
+### [介紹與執行環境(Execution Context)](jie-shao-yu-zhi-hang-huan-jing-execution-context/) <a href="#jie-shao-yu-zhi-hang-huan-jing-execution-context" id="jie-shao-yu-zhi-hang-huan-jing-execution-context"></a>
 
-### [資料型態(Data Type)與變數(Variable)](./#zi-liao-xing-tai-data-type-yu-bian-shu-variable) <a href="#zi-liao-xing-tai-data-type-yu-bian-shu-variable" id="zi-liao-xing-tai-data-type-yu-bian-shu-variable"></a>
+### [資料型態(Data Type)與變數(Variable)](zi-liao-xing-tai-data-type-yu-bian-shu-variable/) <a href="#zi-liao-xing-tai-data-type-yu-bian-shu-variable" id="zi-liao-xing-tai-data-type-yu-bian-shu-variable"></a>
 
-### [邏輯運算子(Logical operator)](./#luo-ji-yun-suan-zi-logical-operator)
+### [邏輯運算子(Logical operator)](luo-ji-yun-suan-zi-logical-operator.md)
 
 ### [條件判斷式與迴圈](./#tiao-jian-pan-duan-shi-yu-hui-quan)
 
